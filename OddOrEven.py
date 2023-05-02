@@ -1,7 +1,7 @@
 # OddOrEven Game
-num = int(input('Hi! Insert a number please: '))
+num = int(input('Hola! Por favor ingresa un numero: '))
 
 if num % 2 == 0:
-    print(f'The number {num} is odd.')
+    print(f'El número {num} es par.')
 else:
-    print(f'The number {num} is even.')
+    print(f'El número {num} es impar.')
